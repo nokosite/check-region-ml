@@ -3,7 +3,7 @@ const path = require("path");
 const validasi = require("./lib/validasi");
 const countryList = require("./utils/data.json");
 
-const PORT = process.env.PORT || 3333;
+const PORT = process.env.PORT || 3000;
 const app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));

@@ -1,20 +1,20 @@
 # Mobile Legends Account ID Checker
 
-[![Stars](https://img.shields.io/github/stars/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/stargazers)
-[![Forks](https://img.shields.io/github/forks/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/network/members)
-[![Issues](https://img.shields.io/github/issues/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/issues)
-[![License](https://img.shields.io/github/license/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/mkstore-id/check-id-mlbb?style=flat-square)](https://github.com/mkstore-id/check-id-mlbb/stargazers)
+[![Forks](https://img.shields.io/github/forks/mkstore-id/check-id-mlbb?style=flat-square)](https://github.com/mkstore-id/check-id-mlbb/network/members)
+[![Issues](https://img.shields.io/github/issues/mkstore-id/check-id-mlbb?style=flat-square)](https://github.com/mkstore-id/check-id-mlbb/issues)
+[![License](https://img.shields.io/github/license/mkstore-id/check-id-mlbb?style=flat-square)](https://github.com/mkstore-id/check-id-mlbb/blob/main/LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=flat-square)](https://cekidml.caliph.dev)
+[![Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=flat-square)](https://cekidml.mkstore.id)
 
 A lightweight web tool to check **Mobile Legends** account **username** and **region** using **User ID** and **Server ID**.  
 Useful for players, account sellers, or anyone who wants to verify account information quickly.
 
 ## Live Demo
 
-[![Demo Screenshot](https://caliph.dev/_next/image?url=/project/OuvMiApgEfCaUgJCrBEAAw.png&w=1920&q=75)](https://cekidml.caliph.dev)
+[![Demo Screenshot](https://mkstore.id/_next/image?url=/project/OuvMiApgEfCaUgJCrBEAAw.png&w=1920&q=75)](https://cekidml.mkstore.id)
 
-**Try it here:** [https://cekidml.caliph.dev](https://cekidml.caliph.dev)
+**Try it here:** [https://cekidml.mkstore.id](https://cekidml.mkstore.id)
 
 ## Features
 
@@ -35,7 +35,7 @@ Useful for players, account sellers, or anyone who wants to verify account infor
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/caliph91/check-id-mlbb
+git clone https://github.com/mkstore-id/check-id-mlbb
 ```
 
 ### 2. Navigate to the Project Directory
@@ -60,4 +60,4 @@ http://localhost:3000
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/caliph91/check-id-mlbb/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/mkstore-id/check-id-mlbb/blob/main/LICENSE).
